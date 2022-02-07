@@ -1,0 +1,5 @@
+D:\University\third year\first term\algo\assignments\Task\[2]Is it a Tree\Is it a Tree\IsTree\obj\Debug\IsTree.csprojAssemblyReference.cache
+D:\University\third year\first term\algo\assignments\Task\[2]Is it a Tree\Is it a Tree\IsTree\bin\Debug\IsTree.exe
+D:\University\third year\first term\algo\assignments\Task\[2]Is it a Tree\Is it a Tree\IsTree\bin\Debug\IsTree.pdb
+D:\University\third year\first term\algo\assignments\Task\[2]Is it a Tree\Is it a Tree\IsTree\obj\Debug\IsTree.exe
+D:\University\third year\first term\algo\assignments\Task\[2]Is it a Tree\Is it a Tree\IsTree\obj\Debug\IsTree.pdb
